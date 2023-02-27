@@ -37,7 +37,7 @@ me.say_hi()
 
 Dacon is site that hosts AI Challenge like kaggle.
 
-**`Growing-period prediction contest. (생육 기간 예측 경진대회) 2/97`** 
+**`Growing-period prediction contest. (생육 기간 예측 경진대회) 2/97`** 🥈
 
 **`Hangang water level prediction AI contest for Paldang Dam. (팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회) 7/308`** 
 
@@ -49,7 +49,13 @@ Dacon is site that hosts AI Challenge like kaggle.
 
 ## Project Career
 
+- [농림축산식품부] 
 
+- [한국전자기술연구원] 실시간 녹조 예측 기계학습 모델 2021.06 ~ 
+
+- [환경부 국립환경과학원] 인공지능 기법을 활용한 보 구간 물 환경 데이터 통합분석 연구 2022.04 ~ 2022.12
+
+- [전북연구원 지역개발연구부] 교통 데이터 다중 분류 모델 분석 2021.04 ~ 2021.12
 
 ## Conference
 
