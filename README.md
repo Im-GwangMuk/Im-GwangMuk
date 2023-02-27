@@ -5,16 +5,18 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class DataAnalyst:
     def __init__(self):
         self.name = "gwangmuk Im"
         self.role = "Data Analyst"
-        self.language_spoken = ["ko_KR", "en_US"]
+        self.age = "28"
+        self.major = "statistics"
         
     def say_hi(self):
+        print(f'Hi! my name is {self.name}. I'm a {self.age}-year-old master's student in {self.major} who wants to become a {self.role}.')
         print("Thanks for dropping by, hope you find some of my work interesting.")
         
-me = SoftwareEngineer()
+me = DataAnalyst()
 me.say_hi()
 ```
 
