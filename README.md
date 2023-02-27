@@ -39,17 +39,29 @@ Dacon is site that hosts AI Challenge like kaggle.
 
 **`Growing-period prediction contest. (생육 기간 예측 경진대회) 2/97`** 
 
-**`Hangang Water Level Prediction AI Contest for Paldang Dam. (팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회) 7/308`** 
+**`Hangang water level prediction AI contest for Paldang Dam. (팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회) 7/308`** 
 
-**`2022 Samsung AI Challenge (3D Metrology) 9/139`**
+**`2022 Samsung AI challenge (3D Metrology) 9/139`**
 
 **`Prediction of Arctic ice with satellite images  (월간 데이콘 위성 영상을 활용한 북극 해빙 예측 AI 경진대회) 10/107`**
 
 **`AI competition for predicting lymphadenopathy in breast cancer (유방암의 임파선 전이 예측 AI 경진대회) 54/446`**
 
+## Project Career
+
+
+
 ## Conference
 
-- 2022 winter season The Korean Statistical Society
+- 2022 winter season The Korean Statistical Society Poster session
+    
+    - 담수 조류 종 인식 및 분류를 위한 객체 탐지 및 분할에 대한 연구 -임광묵, 김재훈, 허태영-
+   
+- 2023 The Korean Data Analysis Society Poster session
+
+    - 정규화 특이값 분해 기반 추천 시스템 모델 제안 및 비교 연구 -김재훈, 이도현, 이상헌, 김도윤, 임광묵, 서문민건, 홍석수, 허태영-
+
+
 <!--
 **Im-GwangMuk/Im-GwangMuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
