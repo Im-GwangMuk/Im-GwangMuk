@@ -28,6 +28,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Sas-informational?style=flat&logo=&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
@@ -36,11 +37,19 @@ me.say_hi()
 
 Dacon is site that hosts AI Challenge like kaggle.
 
-**`Growing-period prediction contest (생육 기간 예측 경진대회) 2/97`** 
+**`Growing-period prediction contest. (생육 기간 예측 경진대회) 2/97`** 
 
-**`Growing-period prediction contest (생육 기간 예측 경진대회) 7/308`** 
+**`Hangang Water Level Prediction AI Contest for Paldang Dam. (팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회) 7/308`** 
 
+**`2022 Samsung AI Challenge (3D Metrology) 9/139`**
 
+**`Prediction of Arctic ice with satellite images  (월간 데이콘 위성 영상을 활용한 북극 해빙 예측 AI 경진대회) 10/107`**
+
+**`AI competition for predicting lymphadenopathy in breast cancer (유방암의 임파선 전이 예측 AI 경진대회) 54/446`**
+
+## Conference
+
+- 2022 winter season The Korean Statistical Society
 <!--
 **Im-GwangMuk/Im-GwangMuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
