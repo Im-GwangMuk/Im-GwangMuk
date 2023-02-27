@@ -13,8 +13,8 @@ class DataAnalyst:
         self.major = "statistics"
         
     def say_hi(self):
-        print(f'Hi! my name is {self.name}.')
-        print(f'I'm a {self.age}-year-old master's student in {self.major} who wants to become a {self.role}.')
+        print(f'Hi! My name is {self.name}.')
+        print(f'I\'m a {self.age}-year-old master\'s student in {self.major} who wants to become a {self.role}.')
         print("Thanks for dropping by, hope you find some of my work interesting.")
         
 me = DataAnalyst()
