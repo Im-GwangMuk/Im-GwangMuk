@@ -32,6 +32,14 @@ me.say_hi()
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
 
+## 🏆 Dacon AI Challenge
+
+Dacon is site that hosts AI Challenge like kaggle.
+
+**`Growing-period prediction contest (생육 기간 예측 경진대회) 2/97`** 
+
+**`Growing-period prediction contest (생육 기간 예측 경진대회) 7/308`** 
+
 
 <!--
 **Im-GwangMuk/Im-GwangMuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
