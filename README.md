@@ -20,6 +20,7 @@ class DataAnalyst:
 me = DataAnalyst()
 me.say_hi()
 ```
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79569224/221459811-2548cd7a-e1db-4544-885a-baacb299312e.gif)
 
 <!--
 **Im-GwangMuk/Im-GwangMuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
