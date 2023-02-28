@@ -37,15 +37,17 @@ me.say_hi()
 
 Dacon is site that hosts AI Challenge like kaggle.
 
-**`Growing-period prediction contest. (생육 기간 예측 경진대회) 2/97`** 🥈
+**`Growing-period prediction contest. (생육 기간 예측 경진대회) 2/97 상위 2%`** 🥈
 
-**`Hangang water level prediction AI contest for Paldang Dam. (팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회) 7/308`** 
+**`Hangang water level prediction AI contest for Paldang Dam. (팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회) 7/308 상위 2%`** 
 
-**`2022 Samsung AI challenge (3D Metrology) 9/139`**
+**`2022 Samsung AI challenge (3D Metrology) 9/139 상위 6%`**
 
-**`Prediction of Arctic ice with satellite images  (월간 데이콘 위성 영상을 활용한 북극 해빙 예측 AI 경진대회) 10/107`**
+**`Smart factory product quality classification AI online hackathon  (스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤) 45/495 상위 9%`**
 
-**`AI competition for predicting lymphadenopathy in breast cancer (유방암의 임파선 전이 예측 AI 경진대회) 54/446`**
+**`Prediction of Arctic ice with satellite images  (월간 데이콘 위성 영상을 활용한 북극 해빙 예측 AI 경진대회) 10/107 상위 10% `**
+
+**`AI competition for predicting lymphadenopathy in breast cancer (유방암의 임파선 전이 예측 AI 경진대회) 54/446 상위 12%`**
 
 ## Project Career
 
