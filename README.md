@@ -74,14 +74,22 @@ Dacon is site that hosts AI Challenge like kaggle.
 
 ## Conference
 
-- 2022 winter season The Korean Statistical Society Poster session
+- 2022 winter season The Korean Statistical Society poster session
     
     - 담수 조류 종 인식 및 분류를 위한 객체 탐지 및 분할에 대한 연구 -임광묵, 김재훈, 허태영-
    
-- 2023 The Korean Data Analysis Society Poster session
+- 2023 The Korean Data Analysis Society poster session
 
     - 정규화 특이값 분해 기반 추천 시스템 모델 제안 및 비교 연구 -김재훈, 이도현, 이상헌, 김도윤, 임광묵, 서문민건, 홍석수, 허태영-
 
+## PAPER
+
+- **`Estimating Chlorophyll-a Concentration from Hyperspectral Data Using Various Machine Learning Techniques: A Case Study at Paldang Dam, South Korea`**
+
+    - GwangMuk Im, Dohyun Lee, Sanghun Lee, Jongsu Lee, Sungjong Lee, Jungsu Park, Tae-Young Heo | [link](https://doi.org/10.3390/w14244080)
+
+
+- [투고예정] 다양한 머신러닝 알고리즘을 이용한 보행자 사고 다중 분류 및 위험 요인 해석
 
 <!--
 **Im-GwangMuk/Im-GwangMuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
