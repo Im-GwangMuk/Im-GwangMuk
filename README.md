@@ -35,7 +35,7 @@ me.say_hi()
 
 ## 🏆 Dacon AI Challenge
 
-Dacon is site that hosts AI Challenge like kaggle.
+Dacon is site that hosts AI Challenge like kaggle.   [Dacon profile](https://dacon.io/myprofile/406673/home)
 
 **`Growing-period prediction contest. (생육 기간 예측 경진대회, 주최: KIST 강릉분원) 2/97 상위 2%`** 🥈
 
