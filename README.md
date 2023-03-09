@@ -43,12 +43,15 @@ Dacon is site that hosts AI Challenge like kaggle.
 
 **`Hangang water level prediction AI contest for Paldang Dam. (팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회, 주최: 한국수력원자력(주)) 7/308 상위 2%`** 
 
-[Dacon link](https://dacon.io/competitions/official/235949/overview/description) | [Repository link](https://github.com/Im-GwangMuk/-Dacon-Hangang-Riv-7th-solution)
-
+[Dacon link](https://dacon.io/competitions/official/235954/leaderboard) | [Repository link](https://github.com/Im-GwangMuk/-Dacon-Hangang-Riv-7th-solution)
 
 **`2022 Samsung AI challenge (3D Metrology) (주최: 삼성전자 종합기술원) 9/139 상위 6%`**
 
+[Dacon link](https://dacon.io/competitions/official/235949/overview/description) | [Repository link](https://github.com/Im-GwangMuk/-Dacon-9th-solution-Samsung-AI-Challenge-3D-Metrology-)
+
 **`Smart factory product quality classification AI online hackathon  (스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤, 주최: LG AI research) 45/495 상위 9%`**
+
+[Dacon link](https://dacon.io/competitions/official/236055/overview/description) | I will upload the repository after the competition is over....
 
 **`Prediction of Arctic ice with satellite images  (월간 데이콘 위성 영상을 활용한 북극 해빙 예측 AI 경진대회, 후원: 극지연구소) 10/107 상위 10% `**
 
