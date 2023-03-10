@@ -23,6 +23,12 @@ me.say_hi()
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79569224/221459811-2548cd7a-e1db-4544-885a-baacb299312e.gif)
 
 
+<a href="https://www.instagram.com/본인인스타아이디/">
+    <img 
+        src="http://img.shields.io/badge/222222?style=flat&logo=Instagram&link=https://www.instagram.com/본인인스타아이디/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
@@ -55,7 +61,11 @@ Dacon is site that hosts AI Challenge like kaggle.   [Dacon profile](https://dac
 
 **`Prediction of Arctic ice with satellite images  (월간 데이콘 위성 영상을 활용한 북극 해빙 예측 AI 경진대회, 후원: 극지연구소) 10/107 상위 10% `**
 
+[Dacon link](https://dacon.io/competitions/official/235706/overview/description)
+
 **`AI competition for predicting lymphadenopathy in breast cancer (유방암의 임파선 전이 예측 AI 경진대회, 주최: 연세대학교 의과대학, JLK, MTS) 54/446 상위 12%`**
+
+[Dacon link](https://dacon.io/competitions/official/236011/overview/description) | [reference](https://www.kaggle.com/competitions/petfinder-pawpularity-score/discussion/301686)
 
 ## Project Career
 
