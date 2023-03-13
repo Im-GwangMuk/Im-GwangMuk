@@ -22,12 +22,10 @@ me.say_hi()
 ```
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/79569224/221459811-2548cd7a-e1db-4544-885a-baacb299312e.gif)
 
-
-<a href="https://www.instagram.com/본인인스타아이디/">
-    <img 
-        src="http://img.shields.io/badge/222222?style=flat&logo=Instagram&link=https://www.instagram.com/본인인스타아이디/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+<a href="mailto:imgm3452@naver.com"><img src="https://img.shields.io/badge/imgm3452-009900?style=flat-square&logo=Naver&logoColor=white&link=imgm3452@naver.com"/></a><!--Naver-->
+<a href="mailto:dla3452@gmail.com"><img src="https://img.shields.io/badge/dla3452-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=dla3452@gmail.com"/></a><!--Gmail-->
+<a href="https://www.linkedin.com/in/%EA%B4%91%EB%AC%B5-%EC%9E%84-b1762019a/">![issue badge](https://img.shields.io/badge/LinkedIn-임광묵-black?logo=LinkedIn)</a><!-- LinkedIn badge -->
+<a href="https://www.instagram.com/muk_iiiim">![issue badge](https://img.shields.io/badge/Instagram-muk_iiiim-black?logo=instagram)</a><!-- instagram badge -->
 
 ## 🔧 Technologies & Tools
 
