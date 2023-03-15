@@ -81,7 +81,7 @@ Dacon is site that hosts AI Challenge like kaggle.   [Dacon profile](https://dac
 
 - [한국전자기술연구원] 실시간 녹조 예측 기계학습 모델 [1차,2차] (1차 : 2021.08.06~2021.11.05, 2차 : 2022.08.20 ~ 2022.11.04)
 
-[Repository link](https://github.com/dlt3/Hyperspectral-Data-Analysis)
+    - [Repository link](https://github.com/Im-GwangMuk/Hyperspectral-Data-Analysis)
 
 - [환경부 국립환경과학원] 인공지능 기법을 활용한 보 구간 물 환경 데이터 통합분석 연구 2022.04 ~ 2022.12
 
