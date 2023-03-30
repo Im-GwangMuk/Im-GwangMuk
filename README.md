@@ -55,11 +55,11 @@ Dacon is site that hosts AI Challenge like kaggle.   [Dacon profile](https://dac
 
 [Dacon link](https://dacon.io/competitions/official/235949/overview/description) | [Repository link](https://github.com/Im-GwangMuk/-Dacon-9th-solution-Samsung-AI-Challenge-3D-Metrology-)
 
-**`Smart factory product quality classification AI online hackathon Phase 2 (스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤, 주최: LG AI research 예선) 45/495 상위 9%`**
+**`Smart factory product quality classification AI online hackathon Phase 2 (스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤 , 주최: LG AI research) 45/495 상위 9%`**
 
 [Dacon link](https://dacon.io/competitions/official/236055/overview/description) | I will upload the repository after the competition is over....
 
-**`Smart factory product quality classification AI online hackathon Phase 3 (스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤, 주최: LG AI research 본선) 9/33`**
+**`Smart factory product quality classification AI online hackathon Phase 3 (스마트 공장 제품 품질 상태 분류 AI 온라인 해커톤 본선, 주최: LG AI research) 9/33`**
 
 [Dacon link](https://dacon.io/competitions/official/236080/overview/description)
 
